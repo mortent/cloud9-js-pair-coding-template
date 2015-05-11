@@ -3,8 +3,6 @@ var expect = require('chai').expect,
 
 describe('main', function() {
 
-    it('should exist', function() {
-        expect(main).to.exist;
-    });
+    it('should exist');
 
 });
